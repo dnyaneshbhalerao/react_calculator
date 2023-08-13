@@ -1,3 +1,5 @@
+package-lock.json
+
 #Ignoring node_modules for check-in to master
 
 node_modules/**
